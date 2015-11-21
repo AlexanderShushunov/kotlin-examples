@@ -1,9 +1,4 @@
-class likeAStructure(val param: String)
-
-
 fun main(args: Array<String>) {
-    val structure = likeAStructure("ww")
-    println(structure)
     filter()
     templates()
     foreach()
